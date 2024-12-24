@@ -1,0 +1,22 @@
+At Dubizzle Labs, we're on an exciting journey to expand our engineering office in Pakistan, which already consists of a talented team of 280+. We are actively seeking individuals who have a passion for learning, a drive for performance, and a commitment to sharing knowledge. Our focus is on creating a high-quality engineering environment with a primary goal of delivering exceptional value to our customers. As a Senior Software Engineer specializing in React JS, you'll play a crucial role in building world-class suite products to support the hyper-growth of our businesses across 10 countries.
+
+Responsibilities
+
+Troubleshoot, test, and maintain core product software and databases to ensure strong optimization and functionality.
+Contribute to all phases of the development life cycle.
+Develop and deploy new features, facilitating related procedures and tools if necessary.
+Design the application according to specifications.
+Write well-designed, testable, efficient code using best software development practices.
+Integrate data from various back-end services and databases.
+Maintain, expand, and scale our site to meet business needs.
+Stay updated on emerging technologies and industry trends, applying them to operations and activities.
+
+
+Qualifications
+
+BS/MS degree in Computer Science, Engineering, or a related subject.
+3+ years of software development experience with a focus on React/Next/Vue.
+Understanding of Object-Oriented Programming (OOP) principles, JavaScript, and JQuery.
+Experience in creating APIs for third parties and consuming third-party APIs is a plus.
+Solid understanding of how web applications work, including security, session management, and best development practices.
+Good knowledge of relational databases, version control tools, and the development of web services.
